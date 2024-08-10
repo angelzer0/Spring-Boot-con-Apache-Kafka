@@ -2,7 +2,7 @@
 <div style="display: flex; justify-content: center;">
   <div>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=ApacheKafka" alt="Tec">
+      <img src="https://skillicons.dev/icons?i=Kafka" alt="Tec">
     </a>
   </div>
 </div>
